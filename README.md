@@ -1,10 +1,12 @@
 # Sam Anderson Portfolio Challenge
 
 ## Context
-Sam Anderson is a Graphic Designer working in UK. He works towards building great user-experiences for his customers. Sam now plans to expand his work in and outside UK by having web presence showcasing his work. Being a Graphic Designer Sam was able to design the layout for his webpage but needed help in scripting the markup and styles to realize the design.
+Sam Anderson has been working as a Graphic Designer in London for several years. He now plans to expand his work in and outside London by having a web presence that showcases his work. Sam has already designed the layout of his web page but needs help in scripting the markups and styles to realize the design.​
 
 ## Challenge
-Sam had assigned this work to a local FrontEnd Developer, but the developer had some challenges and unfortunately could only produce the markup. Sam, now needs help in styling the `./index.html` in a way that resembles the image below such that he can publish his website.
+Sam had assigned this work to a local FrontEnd Developer, but the developer had some challenges and unfortunately could only produce the markup. Sam now needs help in styling the web page such that it gives a great user-experience to attract his customers.​
+
+Style a web page available in `./index.html` to make it better readability and looks more attractive.​
 
 ### Details
 - There are 4 fonts which are widely used across the page and they can be found at following locations:
