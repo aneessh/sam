@@ -6,7 +6,7 @@ Sam Anderson has been working as a Graphic Designer in London for several years.
 ## Challenge
 Sam had assigned this work to a local FrontEnd Developer, but the developer had some challenges and unfortunately could only produce the markup. Sam now needs help in styling the web page such that it gives a great user-experience to attract his customers.​
 
-Style a web page available in `./index.html` to make it better readability and looks more attractive.​
+Style a web page available in `./index.html` to make it better readable and looks more attractive.​
 
 ### Details
 - There are 4 fonts which are widely used across the page and they can be found at following locations:
