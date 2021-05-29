@@ -1,4 +1,4 @@
-# Sam Anderson Portfolio Mastery Challenge
+# Sam Anderson Portfolio Challenge
 
 ## Context
 Sam Anderson is a Graphic Designer working in UK. He works towards building great user-experiences for his customers. Sam now plans to expand his work in and outside UK by having web presence showcasing his work. Being a Graphic Designer Sam was able to design the layout for his webpage but needed help in scripting the markup and styles to realize the design.
